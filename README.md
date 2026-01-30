@@ -6,7 +6,7 @@
 This project focuses on classifying handwritten digits (0–9) using a Deep Neural Network built with TensorFlow and Keras.
 The model is trained on the popular MNIST dataset, which contains grayscale images of handwritten digits.
 
-The goal of this project is to understand how neural networks work for image classification and how model performance is evaluated.
+The goal of this project is to understand how neural networks work for image classification and how model performance is evaluated
 
 
 
