@@ -7,6 +7,7 @@ The model is trained on the popular MNIST dataset, which contains grayscale imag
 
 The goal of this project is to understand how neural networks work for image classification and how model performance is evaluated.
 
+
 📊 Dataset
 
 Dataset: MNIST Handwritten Digits
@@ -18,6 +19,7 @@ Testing samples: 10,000 images
 Image size: 28 × 28 pixels (grayscale)
 
 Each image is flattened into a vector of 784 features before being fed into the neural network.
+
 
 🧠 Model Architecture
 
@@ -31,6 +33,7 @@ Output Dense layer with 10 neurons (one for each digit 0–9)
 
 Activation functions and optimizer are chosen to efficiently learn digit patterns.
 
+
 ⚙️ Technologies Used
 
 Python
@@ -43,6 +46,7 @@ Matplotlib
 
 Seaborn
 
+
 📈 Training & Evaluation
 
 The model is trained for multiple epochs on the training dataset.
@@ -51,11 +55,13 @@ Accuracy is used as the primary performance metric.
 
 A confusion matrix is plotted to analyze prediction performance across all digit classes.
 
+
 📌 Results
 
 Achieved high training accuracy on handwritten digit classification.
 
 The confusion matrix shows how well the model predicts each digit and where misclassifications occur.
+
 
 🎯 Key Learnings
 
