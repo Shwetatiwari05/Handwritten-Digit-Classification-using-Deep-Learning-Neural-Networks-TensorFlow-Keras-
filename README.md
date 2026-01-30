@@ -1,4 +1,5 @@
-Handwritten Digit Classification using Neural Networks (TensorFlow/Keras)
+**Handwritten Digit Classification using Neural Networks (TensorFlow/Keras)**
+
 📌 Project Overview
 
 This project focuses on classifying handwritten digits (0–9) using a Deep Neural Network built with TensorFlow and Keras.
